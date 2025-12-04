@@ -206,4 +206,5 @@ body {
 .summary-card p {
   margin: 2px 0;
 }
+/* Fix(TICKET-123): Simulate contact form email bug fix */
 
