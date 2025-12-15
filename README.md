@@ -23,6 +23,11 @@ The project helped me to understand **Angular components, routing and basic stat
 
 ---
 
+## Live Demo
+👉 https://kezibanozbakirunsal.github.io/frog-tasks/
+
+---
+
 ## Getting Started
 
 To run the project locally:
